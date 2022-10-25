@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+input {
+  margin: 5px;
+}
+
+td,
+th,
+table {
+  border: 1px solid;
+  padding: 10px;
+  border-collapse: collapse;
+}
